@@ -1,0 +1,12 @@
+E:\EWS\EWC.Utility\bin\Debug\net8.0\EWC.Utility.deps.json
+E:\EWS\EWC.Utility\bin\Debug\net8.0\EWC.Utility.dll
+E:\EWS\EWC.Utility\bin\Debug\net8.0\EWC.Utility.pdb
+E:\EWS\EWC.Utility\obj\Debug\net8.0\EWC.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\EWS\EWC.Utility\obj\Debug\net8.0\EWC.Utility.AssemblyInfoInputs.cache
+E:\EWS\EWC.Utility\obj\Debug\net8.0\EWC.Utility.AssemblyInfo.cs
+E:\EWS\EWC.Utility\obj\Debug\net8.0\EWC.Utility.csproj.CoreCompileInputs.cache
+E:\EWS\EWC.Utility\obj\Debug\net8.0\EWC.Utility.sourcelink.json
+E:\EWS\EWC.Utility\obj\Debug\net8.0\EWC.Utility.dll
+E:\EWS\EWC.Utility\obj\Debug\net8.0\refint\EWC.Utility.dll
+E:\EWS\EWC.Utility\obj\Debug\net8.0\EWC.Utility.pdb
+E:\EWS\EWC.Utility\obj\Debug\net8.0\ref\EWC.Utility.dll

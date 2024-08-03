@@ -1,0 +1,402 @@
+E:\Net Core\EWC.Web\bin\Debug\net8.0\appsettings.Development.json
+E:\Net Core\EWC.Web\bin\Debug\net8.0\appsettings.json
+E:\Net Core\EWC.Web\bin\Debug\net8.0\EWC.Web.staticwebassets.runtime.json
+E:\Net Core\EWC.Web\bin\Debug\net8.0\EWC.Web.exe
+E:\Net Core\EWC.Web\bin\Debug\net8.0\EWC.Web.deps.json
+E:\Net Core\EWC.Web\bin\Debug\net8.0\EWC.Web.runtimeconfig.json
+E:\Net Core\EWC.Web\bin\Debug\net8.0\EWC.Web.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\EWC.Web.pdb
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Azure.Core.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Humanizer.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.csproj.AssemblyReference.cache
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.AssemblyInfoInputs.cache
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.AssemblyInfo.cs
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.csproj.CoreCompileInputs.cache
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.RazorAssemblyInfo.cache
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.RazorAssemblyInfo.cs
+E:\Net Core\EWC.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\Net Core\EWC.Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\Net Core\EWC.Web\obj\Debug\net8.0\staticwebassets\msbuild.EWC.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Net Core\EWC.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.EWC.Web.props
+E:\Net Core\EWC.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EWC.Web.props
+E:\Net Core\EWC.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EWC.Web.props
+E:\Net Core\EWC.Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Net Core\EWC.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Net Core\EWC.Web\obj\Debug\net8.0\scopedcss\bundle\EWC.Web.styles.css
+E:\Net Core\EWC.Web\obj\Debug\net8.0\scopedcss\projectbundle\EWC.Web.bundle.scp.css
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.csproj.CopyComplete
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.dll
+E:\Net Core\EWC.Web\obj\Debug\net8.0\refint\EWC.Web.dll
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.pdb
+E:\Net Core\EWC.Web\obj\Debug\net8.0\EWC.Web.genruntimeconfig.cache
+E:\Net Core\EWC.Web\obj\Debug\net8.0\ref\EWC.Web.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\CloudFlare.Client.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Net Core\EWC.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\appsettings.Development.json
+E:\EWS\EWC.Web\bin\Debug\net8.0\appsettings.json
+E:\EWS\EWC.Web\bin\Debug\net8.0\EWC.Web.staticwebassets.runtime.json
+E:\EWS\EWC.Web\bin\Debug\net8.0\EWC.Web.exe
+E:\EWS\EWC.Web\bin\Debug\net8.0\EWC.Web.deps.json
+E:\EWS\EWC.Web\bin\Debug\net8.0\EWC.Web.runtimeconfig.json
+E:\EWS\EWC.Web\bin\Debug\net8.0\EWC.Web.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\EWC.Web.pdb
+E:\EWS\EWC.Web\bin\Debug\net8.0\Azure.Core.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\CloudFlare.Client.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Humanizer.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.Build.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\NuGet.Common.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\EWC.dataAccess.dll
+E:\EWS\EWC.Web\bin\Debug\net8.0\EWC.dataAccess.pdb
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.csproj.AssemblyReference.cache
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.AssemblyInfoInputs.cache
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.AssemblyInfo.cs
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.csproj.CoreCompileInputs.cache
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.RazorAssemblyInfo.cache
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.RazorAssemblyInfo.cs
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.sourcelink.json
+E:\EWS\EWC.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\EWS\EWC.Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\EWS\EWC.Web\obj\Debug\net8.0\staticwebassets\msbuild.EWC.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\EWS\EWC.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.EWC.Web.props
+E:\EWS\EWC.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EWC.Web.props
+E:\EWS\EWC.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EWC.Web.props
+E:\EWS\EWC.Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\EWS\EWC.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\EWS\EWC.Web\obj\Debug\net8.0\scopedcss\bundle\EWC.Web.styles.css
+E:\EWS\EWC.Web\obj\Debug\net8.0\scopedcss\projectbundle\EWC.Web.bundle.scp.css
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.csproj.CopyComplete
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.dll
+E:\EWS\EWC.Web\obj\Debug\net8.0\refint\EWC.Web.dll
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.pdb
+E:\EWS\EWC.Web\obj\Debug\net8.0\EWC.Web.genruntimeconfig.cache
+E:\EWS\EWC.Web\obj\Debug\net8.0\ref\EWC.Web.dll
+e:\EWS\EWC.Web\bin\Debug\net8.0\EWC.Models.dll
+e:\EWS\EWC.Web\bin\Debug\net8.0\EWC.Utility.dll
+e:\EWS\EWC.Web\bin\Debug\net8.0\EWC.Models.pdb
+e:\EWS\EWC.Web\bin\Debug\net8.0\EWC.Utility.pdb
